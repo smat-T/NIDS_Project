@@ -1,0 +1,338 @@
+2024-09-08 21:57:36 - [INFO] Thresholds updated: DoS=100, Port Scan=10, Brute Force=5
+2024-09-08 21:57:45 - [INFO] IDS started...
+2024-09-08 22:02:03 - [INFO] IDS stopped.
+2024-09-08 22:02:25 - [INFO] Thresholds updated: DoS=10, Port Scan=10, Brute Force=5
+2024-09-08 22:04:42 - [INFO] Thresholds updated: DoS=10, Port Scan=10, Brute Force=5
+2024-09-08 22:04:46 - [INFO] IDS started...
+2024-09-08 22:05:11 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:05:36 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:05:37 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 22:05:38 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 22:05:39 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 22:05:39 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 22:05:40 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 22:05:41 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 22:05:41 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 22:05:42 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 22:05:43 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 22:05:43 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 22:05:43 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 22:05:44 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:05:44 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:05:50 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:05:51 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:05:52 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:05:53 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:05:53 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 22:05:54 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 22:05:55 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 22:05:55 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:05:56 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:05:56 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:05:57 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:05:58 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:05:58 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:05:59 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:06 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:07 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:07 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:07 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:07 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:08 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:08 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:09 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:10 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:13 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:13 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:14 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:14 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:14 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:15 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:15 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:16 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:16 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:17 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:17 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:18 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:18 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:19 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:19 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:19 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:20 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:22 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:24 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:25 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:26 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:26 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:27 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:27 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:28 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:28 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:29 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:29 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:29 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:29 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:30 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:30 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:30 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:31 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:31 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:31 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:32 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:32 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:33 - [ALERT] Possible DoS/DDoS attack from 20.56.187.20
+2024-09-08 22:06:33 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:34 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:35 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:35 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:35 - [ALERT] Possible DoS/DDoS attack from 20.56.187.20
+2024-09-08 22:06:37 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:37 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:38 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:38 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:39 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:39 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:39 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:40 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:40 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:46 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:47 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:47 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:47 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:48 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:06:51 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:27:03 - [INFO] Thresholds updated: DoS=10, Port Scan=10, Brute Force=5
+2024-09-08 22:27:21 - [INFO] IDS started...
+2024-09-08 22:33:51 - [INFO] IDS started...
+2024-09-08 22:34:02 - [INFO] Thresholds updated: DoS=10, Port Scan=10, Brute Force=5
+2024-09-08 22:34:07 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:34:14 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:34:15 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:34:15 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:34:16 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:34:17 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:34:17 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:34:18 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:34:19 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:34:19 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:42:27 - [INFO] IDS started...
+2024-09-08 22:44:59 - [INFO] Thresholds updated: DoS=10, Port Scan=10, Brute Force=5
+2024-09-08 22:45:06 - [INFO] IDS stopped.
+2024-09-08 22:45:09 - [INFO] IDS started...
+2024-09-08 22:45:10 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:45:10 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:52:23 - [INFO] Thresholds updated: DoS=10, Port Scan=10, Brute Force=5
+2024-09-08 22:52:26 - [INFO] IDS started...
+2024-09-08 22:52:34 - [INFO] IDS stopped.
+2024-09-08 22:53:03 - [INFO] Thresholds updated: DoS=10, Port Scan=10, Brute Force=5
+2024-09-08 22:53:06 - [INFO] IDS started...
+2024-09-08 22:53:10 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:53:13 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:53:17 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:53:20 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:53:21 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:53:22 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:53:26 - [INFO] IDS stopped.
+2024-09-08 22:53:30 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:53:40 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:58:49 - [INFO] Thresholds updated: DoS=10, Port Scan=10, Brute Force=5
+2024-09-08 22:58:50 - [INFO] IDS started...
+2024-09-08 22:58:53 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:58:56 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:58:58 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:59:00 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:59:01 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 22:59:02 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:59:03 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 22:59:05 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 22:59:06 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 22:59:07 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:59:08 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:59:09 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:59:09 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:59:10 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:59:11 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:59:12 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:59:13 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:59:13 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:59:14 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:59:15 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:59:16 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:59:17 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:59:18 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:59:19 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:59:20 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:59:21 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:59:22 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 22:59:26 - [INFO] IDS stopped.
+2024-09-08 23:08:43 - [INFO] Thresholds updated: DoS=10, Port Scan=10, Brute Force=5
+2024-09-08 23:08:45 - [INFO] IDS started...
+2024-09-08 23:08:58 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:09:03 - [INFO] IDS stopped.
+2024-09-08 23:09:03 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:09:05 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:09:11 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:09:13 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:09:14 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:09:15 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:09:16 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:09:17 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:09:18 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:09:19 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:09:20 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:09:21 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:09:22 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:09:23 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 23:09:24 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:09:25 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:09:26 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:09:27 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 23:09:28 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:09:29 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:09:30 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:09:33 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:13:41 - [INFO] Thresholds updated: DoS=10, Port Scan=10, Brute Force=5
+2024-09-08 23:13:43 - [INFO] IDS started...
+2024-09-08 23:13:55 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:13:58 - [INFO] IDS stopped.
+2024-09-08 23:14:04 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:18:07 - [INFO] Thresholds updated: DoS=10, Port Scan=10, Brute Force=5
+2024-09-08 23:18:08 - [INFO] IDS started...
+2024-09-08 23:18:11 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:18:13 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 23:18:14 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 23:18:14 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 23:18:16 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 23:18:17 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 23:18:17 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:18:17 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:18:18 - [ALERT] Possible DoS/DDoS attack from 102.132.101.15
+2024-09-08 23:18:21 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:18:21 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:18:21 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:18:22 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:18:22 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:18:23 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:18:26 - [INFO] IDS stopped.
+2024-09-08 23:18:26 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:18:27 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:18:28 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:18:29 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:18:29 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:18:29 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:18:30 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:18:30 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:18:30 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-08 23:18:31 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:52:53 - [INFO] Thresholds updated: DoS=10, Port Scan=10, Brute Force=5
+2024-09-09 15:53:56 - [INFO] IDS started...
+2024-09-09 15:54:08 - [INFO] Thresholds updated: DoS=10, Port Scan=10, Brute Force=5
+2024-09-09 15:54:10 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:12 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:21 - [INFO] IDS stopped.
+2024-09-09 15:54:25 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:28 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:28 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:30 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:40 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:42 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:43 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:44 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:44 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:45 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:46 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:46 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:46 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:47 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:47 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:48 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:48 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:48 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:49 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:50 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:51 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:51 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:52 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:54:52 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:58:51 - [INFO] Thresholds updated: DoS=10, Port Scan=10, Brute Force=5
+2024-09-09 15:58:56 - [INFO] IDS started...
+2024-09-09 15:59:06 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:59:13 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 15:59:21 - [INFO] IDS stopped.
+2024-09-09 16:06:48 - [INFO] IDS started...
+2024-09-09 16:06:53 - [INFO] Thresholds updated: DoS=10, Port Scan=10, Brute Force=5
+2024-09-09 16:06:53 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:06:55 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:06:57 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:06:59 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:02 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:05 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:06 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:07 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:07 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:08 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:08 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:08 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:09 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:09 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:09 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:09 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:10 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:10 - [ALERT] Possible DoS/DDoS attack from 142.250.184.14
+2024-09-09 16:07:10 - [ALERT] Possible DoS/DDoS attack from 142.250.184.14
+2024-09-09 16:07:11 - [ALERT] Possible DoS/DDoS attack from 142.250.184.14
+2024-09-09 16:07:24 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:24 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:24 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:25 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:25 - [ALERT] Possible DoS/DDoS attack from 142.250.185.10
+2024-09-09 16:07:25 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:25 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:25 - [ALERT] Possible DoS/DDoS attack from 142.250.185.10
+2024-09-09 16:07:26 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:26 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:26 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:26 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:26 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:27 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:27 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:27 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:28 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:28 - [ALERT] Possible DoS/DDoS attack from 142.250.184.170
+2024-09-09 16:07:28 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:29 - [ALERT] Possible DoS/DDoS attack from 142.250.184.170
+2024-09-09 16:07:29 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:29 - [ALERT] Possible DoS/DDoS attack from 142.250.184.170
+2024-09-09 16:07:30 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:30 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:30 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:31 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:31 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:31 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:31 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:32 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:32 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:32 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:32 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:32 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:33 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:33 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:33 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:34 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:34 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:35 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:35 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:35 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:35 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:36 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:37 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:37 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:38 - [ALERT] Possible DoS/DDoS attack from 142.250.184.170
+2024-09-09 16:07:38 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:39 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:39 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:40 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-09 16:07:40 - [ALERT] Possible DoS/DDoS attack from 192.168.43.249
+2024-09-10 06:46:12 - [INFO] Thresholds updated: DoS=10, Port Scan=10, Brute Force=5
+2024-09-10 06:46:15 - [INFO] IDS started...
+2024-09-10 06:46:34 - [INFO] IDS stopped.
